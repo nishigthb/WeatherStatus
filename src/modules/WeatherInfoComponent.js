@@ -7,7 +7,7 @@ export const WeatherInfoIcons = {
     sunrise:"/icons/temp.png",
     Humidity:"/icons/humidity.jpg",
     Wind:"/icons/wind.png",
-    Pressure:"/icons/pressure.png",
+    Pressure:"/icons/pressure.jpg",
     Min_temp:"/icons/min_temp.jpg",
     Max_temp:"/icons/max_temp.jpg",
 };
